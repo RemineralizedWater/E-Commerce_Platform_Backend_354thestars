@@ -1,0 +1,29 @@
+{
+    "$id": "http://json-schema.org/draft-07/schema#",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "review",
+    "type": "object",
+    "required": [ "comment", "score" ],
+    "additionalProperties": false,
+    "properties": {
+        "userEmail": {
+            "type": "string",
+            "format": "email",
+            "description": "Email of the user"
+        },
+        "productPermalink": {
+            "type": "string",
+            "description": "Permalink of the product being commented on"
+        },
+        "comment": {
+            "type": "string",
+            "description": "Comment text"
+        },
+        "score": {
+            "type": "number",
+            "minimum": 1,
+            "maximum": 5,
+            "description": "Rating"
+        }
+    }
+}

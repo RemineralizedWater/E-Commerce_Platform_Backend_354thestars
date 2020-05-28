@@ -1,0 +1,30 @@
+{
+    "$id": "http://json-schema.org/draft-07/schema#",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "UpdateSelf",
+    "type": "object",
+    "required": ["current_password"],
+    "additionalProperties": false,
+    "properties": {
+        "current_password": {
+            "type": "string",
+            "description": "current user password"
+        },
+        "first_name": {
+            "type": "string",
+            "description": "User's first name"
+        },
+        "last_name": {
+            "type": "string",
+            "description": "User's last name"
+        },
+        "password": {
+            "type": "string",
+            "description": "User's password"
+        },
+        "email": {
+            "type": "string",
+            "format": "email"
+        }
+    }
+}
