@@ -1,10 +1,10 @@
 # 354TheStars - Marketplace
 
-![alt text](https://github.com/RemineralizedWater/E-Commerce_Platform_Backend_354thestars/Screenshots/1.Login.jpg?raw=true)
-![alt text](https://github.com/RemineralizedWater/E-Commerce_Platform_Backend_354thestars/Screenshots/Register.jpg?raw=true)
-![alt text](https://github.com/RemineralizedWater/E-Commerce_Platform_Backend_354thestars/Screenshots/Home.jpg?raw=true)
-![alt text](https://github.com/RemineralizedWater/E-Commerce_Platform_Backend_354thestars/Screenshots/Search.jpg?raw=true)
-![alt text](https://github.com/RemineralizedWater/E-Commerce_Platform_Backend_354thestars/Screenshots/Shopping_Cart.jpg?raw=true)
+![alt text](https://github.com/RemineralizedWater/E-Commerce_Platform_Backend_354thestars/1_Login.jpg?raw=true)
+![alt text](https://github.com/RemineralizedWater/E-Commerce_Platform_Backend_354thestars/2_Register.jpg?raw=true)
+![alt text](https://github.com/RemineralizedWater/E-Commerce_Platform_Backend_354thestars/3_Home.jpg?raw=true)
+![alt text](https://github.com/RemineralizedWater/E-Commerce_Platform_Backend_354thestars/4_Search.jpg?raw=true)
+![alt text](https://github.com/RemineralizedWater/E-Commerce_Platform_Backend_354thestars/5_Shopping_Cart.jpg?raw=true)
 
 ## Installation
 
