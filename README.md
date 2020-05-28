@@ -1,5 +1,16 @@
 # 354TheStars - Marketplace
 
+![alt text](https://github.com/RemineralizedWater/
+E-Commerce_Platform_Backend_354thestars/blob/Screenshots/1.Login.jpg?raw=true)
+![alt text](https://github.com/RemineralizedWater/
+E-Commerce_Platform_Backend_354thestars/blob/Screenshots/2.Register.jpg?raw=true)
+![alt text](https://github.com/RemineralizedWater/
+E-Commerce_Platform_Backend_354thestars/blob/Screenshots/3.Home.jpg?raw=true)
+![alt text](https://github.com/RemineralizedWater/
+E-Commerce_Platform_Backend_354thestars/blob/Screenshots/4.Search.jpg?raw=true)
+![alt text](https://github.com/RemineralizedWater/
+E-Commerce_Platform_Backend_354thestars/blob/Screenshots/5.Shopping_Cart.jpg?raw=true)
+
 ## Installation
 
 ### Python Virtual Environment (Recommended)
